@@ -72,3 +72,36 @@ Content 1 | Content 2 | Content 3
 Content 4 | Content 5 | Content 6
 Content 7 | Contetn 8 | Content 9
 
+***
+
+## Headers
+
+### Syntax
+    # H1
+    ## H2
+    ### H3
+    #### H4
+    ##### H5
+    ###### H6
+
+    Alt-H1
+    ======
+
+    Alt-H2
+    ------
+
+### Output
+
+# H1
+## H2
+### H3
+#### H4
+##### H5
+###### H6
+
+Alt-H1
+======
+
+Alt-H2
+------
+
