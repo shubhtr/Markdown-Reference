@@ -105,3 +105,17 @@ Alt-H1
 Alt-H2
 ------
 
+## Bullet Lists
+
+### Syntax
+    * Item
+    * Item
+    - Item
+    - Item
+
+### Ouptput
+* Item
+* Item
+- Item
+- Item
+
