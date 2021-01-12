@@ -119,3 +119,20 @@ Alt-H2
 - Item
 - Item
 
+## Underline
+
+### Syntax
+    <ins>This is underlined.</ins>
+
+### Output
+<ins>This is underlined.</ins>
+
+
+
+## Pipe
+
+### Syntax
+    ls \| wc –l
+
+### Output
+$ ls \| wc –l
