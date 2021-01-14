@@ -136,3 +136,16 @@ Alt-H2
 
 ### Output
 $ ls \| wc –l
+
+## Line Breaks
+
+Do this | DONT DO THIS
+--- | ---
+First line with two spaces after.  <br>And the next line. | First line with a backslash after. \ <br> And the next line.
+&nbsp; | &nbsp; 
+First line with the HTML tag after.`<br>`<br>And the next line. | First line with nothing after.<br> And the next line.
+
+<ins>TLDR;</ins> Use `<br>` for line break.
+
+# References
+* https://www.markdownguide.org/basic-syntax/#line-break-best-practices
