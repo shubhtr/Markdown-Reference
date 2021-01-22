@@ -144,8 +144,22 @@ Do this | DONT DO THIS
 First line with two spaces after.  <br>And the next line. | First line with a backslash after. \ <br> And the next line.
 &nbsp; | &nbsp; 
 First line with the HTML tag after.`<br>`<br>And the next line. | First line with nothing after.<br> And the next line.
-
+<br><br>
+backslashes are not recommended for compatibility reasons
+<br><br>
 <ins>TLDR;</ins> Use `<br>` for line break.
+
+
+# Creating and highlighting code blocks
+
+create fenced code blocks by placing triple backticks ``` before and after the code block. can add an optional language identifier to enable syntax highlighting in your fenced code block.
+
+```ruby
+require 'redcarpet'
+markdown = Redcarpet.new("Hello World!")
+puts markdown.to_html
+```
+
 
 # References
 * https://www.markdownguide.org/basic-syntax/#line-break-best-practices
