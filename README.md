@@ -161,5 +161,9 @@ puts markdown.to_html
 ```
 
 
+# Links
+
+    [The Python Language Reference](https://docs.python.org/3/reference/index.html)
+
 # References
 * https://www.markdownguide.org/basic-syntax/#line-break-best-practices
