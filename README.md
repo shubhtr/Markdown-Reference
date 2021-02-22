@@ -1,4 +1,7 @@
 # Markdown Reference
+## by Shubhrendu Tripathi
+
+<br><br>
 
 ## Code
 
